@@ -16,6 +16,15 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
+✅ Business Problem statement
+
+     Healthcare organizations are under increasing pressure to manage high patient volumes, control costs, and improve patient outcomes. However, data is often fragmented across multiple systems (clinical,          financial, patient records), leading to difficulties in identifying inefficiencies, understanding patient demographics, and identifying trends in revenue generation.
+
+     The organization currently lacks a centralized, interactive view of its key operational and financial metrics. This fragmentation hinders the ability to:
+        ✅ Identify bottlenecks in revenue and admission processes.
+        ✅ Analyse patient demographics (e.g., blood type, age) in relation to medical conditions.
+        ✅ Monitor resource utilization (doctors/hospitals) and treatment effectiveness.
+        ✅ Track insurance provider performance and reimbursement trends efficiently.
 
 
 🔎 Steps
